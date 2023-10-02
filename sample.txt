@@ -1,1 +1,1 @@
-Sample text file
+Modified text in the Sample text file
